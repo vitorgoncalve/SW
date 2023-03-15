@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\exerciciosAlunos\bin\Debug\net7.0\exerciciosAlunos.exe
+C:\Users\Aluno\Desktop\exerciciosAlunos\bin\Debug\net7.0\exerciciosAlunos.deps.json
+C:\Users\Aluno\Desktop\exerciciosAlunos\bin\Debug\net7.0\exerciciosAlunos.runtimeconfig.json
+C:\Users\Aluno\Desktop\exerciciosAlunos\bin\Debug\net7.0\exerciciosAlunos.dll
+C:\Users\Aluno\Desktop\exerciciosAlunos\bin\Debug\net7.0\exerciciosAlunos.pdb
+C:\Users\Aluno\Desktop\exerciciosAlunos\obj\Debug\net7.0\exerciciosAlunos.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\exerciciosAlunos\obj\Debug\net7.0\exerciciosAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\exerciciosAlunos\obj\Debug\net7.0\exerciciosAlunos.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\exerciciosAlunos\obj\Debug\net7.0\exerciciosAlunos.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\exerciciosAlunos\obj\Debug\net7.0\exerciciosAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\exerciciosAlunos\obj\Debug\net7.0\exerciciosAlunos.dll
+C:\Users\Aluno\Desktop\exerciciosAlunos\obj\Debug\net7.0\refint\exerciciosAlunos.dll
+C:\Users\Aluno\Desktop\exerciciosAlunos\obj\Debug\net7.0\exerciciosAlunos.pdb
+C:\Users\Aluno\Desktop\exerciciosAlunos\obj\Debug\net7.0\exerciciosAlunos.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\exerciciosAlunos\obj\Debug\net7.0\ref\exerciciosAlunos.dll
