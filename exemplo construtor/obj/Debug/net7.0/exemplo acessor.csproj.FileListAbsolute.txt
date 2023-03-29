@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\exemplo acessor\bin\Debug\net7.0\exemplo acessor.exe
+C:\Users\LAB4\Desktop\exemplo acessor\bin\Debug\net7.0\exemplo acessor.deps.json
+C:\Users\LAB4\Desktop\exemplo acessor\bin\Debug\net7.0\exemplo acessor.runtimeconfig.json
+C:\Users\LAB4\Desktop\exemplo acessor\bin\Debug\net7.0\exemplo acessor.dll
+C:\Users\LAB4\Desktop\exemplo acessor\bin\Debug\net7.0\exemplo acessor.pdb
+C:\Users\LAB4\Desktop\exemplo acessor\obj\Debug\net7.0\exemplo acessor.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\exemplo acessor\obj\Debug\net7.0\exemplo acessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\exemplo acessor\obj\Debug\net7.0\exemplo acessor.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\exemplo acessor\obj\Debug\net7.0\exemplo acessor.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\exemplo acessor\obj\Debug\net7.0\exemplo acessor.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\exemplo acessor\obj\Debug\net7.0\exemplo acessor.dll
+C:\Users\LAB4\Desktop\exemplo acessor\obj\Debug\net7.0\refint\exemplo acessor.dll
+C:\Users\LAB4\Desktop\exemplo acessor\obj\Debug\net7.0\exemplo acessor.pdb
+C:\Users\LAB4\Desktop\exemplo acessor\obj\Debug\net7.0\exemplo acessor.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\exemplo acessor\obj\Debug\net7.0\ref\exemplo acessor.dll
