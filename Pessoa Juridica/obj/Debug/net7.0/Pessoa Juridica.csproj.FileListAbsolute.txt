@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Pessoa Juridica\bin\Debug\net7.0\Pessoa Juridica.exe
+C:\Users\LAB4\Desktop\Pessoa Juridica\bin\Debug\net7.0\Pessoa Juridica.deps.json
+C:\Users\LAB4\Desktop\Pessoa Juridica\bin\Debug\net7.0\Pessoa Juridica.runtimeconfig.json
+C:\Users\LAB4\Desktop\Pessoa Juridica\bin\Debug\net7.0\Pessoa Juridica.dll
+C:\Users\LAB4\Desktop\Pessoa Juridica\bin\Debug\net7.0\Pessoa Juridica.pdb
+C:\Users\LAB4\Desktop\Pessoa Juridica\obj\Debug\net7.0\Pessoa Juridica.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Pessoa Juridica\obj\Debug\net7.0\Pessoa Juridica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Pessoa Juridica\obj\Debug\net7.0\Pessoa Juridica.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Pessoa Juridica\obj\Debug\net7.0\Pessoa Juridica.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Pessoa Juridica\obj\Debug\net7.0\Pessoa Juridica.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Pessoa Juridica\obj\Debug\net7.0\Pessoa Juridica.dll
+C:\Users\LAB4\Desktop\Pessoa Juridica\obj\Debug\net7.0\refint\Pessoa Juridica.dll
+C:\Users\LAB4\Desktop\Pessoa Juridica\obj\Debug\net7.0\Pessoa Juridica.pdb
+C:\Users\LAB4\Desktop\Pessoa Juridica\obj\Debug\net7.0\Pessoa Juridica.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Pessoa Juridica\obj\Debug\net7.0\ref\Pessoa Juridica.dll
